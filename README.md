@@ -6,7 +6,6 @@ Usage
 Created in Unity version 2021.3.0f1 Personal
 
 **Authors and acknowledgment**
-All assets below are free and commercial free to use
 
 **Music And SFX**
 1) https://yyyn0889.itch.io/swngyills-retro-music-pack-vol-001
